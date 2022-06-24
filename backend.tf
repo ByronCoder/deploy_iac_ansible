@@ -4,6 +4,6 @@ terraform {
     region  = "us-east-1"
     profile = "default"
     key     = "terraformstatefile"
-    bucket  = "test-bucket-457678"
+    bucket  = "terraformstatebucket4463"
   }
 }
